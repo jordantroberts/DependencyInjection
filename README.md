@@ -1,7 +1,7 @@
-##Dependency Injection
+## Dependency Injection
 Makers Academy week 2 exercise to practice using dependency injection to test classes in isolation.
 
-##Exercise 1
+## Exercise 1
 Amend the following classes to be testable in isolation, then write the tests for them.
 
 ```
